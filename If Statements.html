@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> If Statements</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <button onclick="check()">Play Game</button>
+        <script src="script.js"></script>
+    </body>
+</html>
